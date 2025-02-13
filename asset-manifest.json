@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mercatoria-fishing-club/static/css/main.818dc798.css",
+    "main.css": "/mercatoria-fishing-club/static/css/main.03b63b50.css",
     "main.js": "/mercatoria-fishing-club/static/js/main.de3c0173.js",
     "static/js/453.809d31f7.chunk.js": "/mercatoria-fishing-club/static/js/453.809d31f7.chunk.js",
     "static/media/fish-overlay.png": "/mercatoria-fishing-club/static/media/fish-overlay.2d3e05a7e416e632a0ad.png",
@@ -9,12 +9,12 @@
     "static/media/Redaction10-Regular.otf": "/mercatoria-fishing-club/static/media/Redaction10-Regular.0cbe69159fe5a8b7cce0.otf",
     "static/media/logo.svg": "/mercatoria-fishing-club/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/mercatoria-fishing-club/index.html",
-    "main.818dc798.css.map": "/mercatoria-fishing-club/static/css/main.818dc798.css.map",
+    "main.03b63b50.css.map": "/mercatoria-fishing-club/static/css/main.03b63b50.css.map",
     "main.de3c0173.js.map": "/mercatoria-fishing-club/static/js/main.de3c0173.js.map",
     "453.809d31f7.chunk.js.map": "/mercatoria-fishing-club/static/js/453.809d31f7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.818dc798.css",
+    "static/css/main.03b63b50.css",
     "static/js/main.de3c0173.js"
   ]
 }
